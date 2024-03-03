@@ -44,7 +44,7 @@ function check() {
         document.getElementById("check3").style.color = "red";
     }
 
-    if (/\s/.test(input)) {
+    if (/[A-Z]/.test(input)) {
         document.getElementById("check4").style.color = "green";
     } else {
         document.getElementById("check4").style.color = "red";

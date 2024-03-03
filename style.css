@@ -77,7 +77,7 @@ i {
     transition-duration: 600ms;
 }
 
-#check0, #check1, #check2, #check3, #check4 {
+#check0, #check1, #check2, #check3, #check4,  {
     display: block;
     position: relative;
     margin: 4%;
